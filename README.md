@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# sqlitedborm
-SQLite DB ORM for Python
-=======
 # sqlitedborm Package
 ====================
 
@@ -89,4 +85,3 @@ The command above will create a model for 'contacts' table.
 Documentation
 --------------
 
->>>>>>> Initial version
