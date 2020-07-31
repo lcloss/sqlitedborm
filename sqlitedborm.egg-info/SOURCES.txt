@@ -1,0 +1,8 @@
+README.md
+setup.py
+sqlitedborm/__init__.py
+sqlitedborm/db.py
+sqlitedborm.egg-info/PKG-INFO
+sqlitedborm.egg-info/SOURCES.txt
+sqlitedborm.egg-info/dependency_links.txt
+sqlitedborm.egg-info/top_level.txt

@@ -1,0 +1,1 @@
+Python3 -m pip install -U dist/sqlitedborm-0.0.1-py3-none-any.whl
